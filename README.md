@@ -5,7 +5,7 @@
 ### Full-Stack Developer — .NET Core & React
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+%26+React+Developer;Clean+Architecture+%7C+SOLID+Principles;RESTful+APIs+%7C+SQL+Server+%7C+EF+Core;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" alt="Matrix Coding"/>
 </p>
 
 </div>
