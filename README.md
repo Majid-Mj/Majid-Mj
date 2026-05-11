@@ -5,7 +5,7 @@
 ### Full-Stack Developer — .NET Core & React
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Anime Coding"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
 </p>
 
 </div>
