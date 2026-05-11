@@ -151,23 +151,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AbdulMajidVP&show_icons=true&theme=gotham&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true"
     width="48%"
     alt="GitHub Stats"
   />
+
+  <!-- LeetCode Stats -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMajidVP&theme=gotham&hide_border=true"
+    src="https://leetcard.jacoblin.cool/majid_mj?theme=dark&font=ABeeZee"
     width="48%"
-    alt="GitHub Streak"
+    alt="LeetCode Stats"
   />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidVP&layout=compact&theme=gotham&hide_border=true"
-    width="40%"
-    alt="Top Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Majid-Mj&theme=gotham&hide_border=true"
+    width="48%"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -175,28 +179,21 @@
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulmajidvp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:majidvp501@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AbdulMajidVP" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/917510851668" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/abdul-majid-v-p-590209387/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:majidvp501@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/Majid-Mj">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
 
 <p align="center">
   <i>"Engineering scalable solutions with clean architecture, one commit at a time." 💻</i>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AbdulMajidVP&color=0078D4&style=flat-square" alt="Profile Views"/>
 </p>
