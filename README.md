@@ -1,8 +1,7 @@
-<div align="center">
 
-# Hi 👋, I'm Abdul Majid V P
 
-### Full-Stack Developer — .NET Core & React
+# Hi 👋, I'm Abdul Majid 
+
 
 <p align="center">
   <td align="center" width="300"><img src="https://github.com/Majid-Mj/Majid-Mj/blob/main/penguin-pengu.gif?raw=true" width="300" alt="Entity Framework"/></td>
@@ -10,9 +9,7 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
+### Full-Stack Developer — .NET Core & React
 
 - 🚀 Full Stack Developer specializing in **ASP.NET Core** backends and **React** frontends
 - 🏢 Currently **Full Stack Developer Intern** at **Bridgeon Solutions LLP**, Calicut
