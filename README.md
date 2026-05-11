@@ -5,7 +5,7 @@
 ### Full-Stack Developer — .NET Core & React
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/aTx3zLr2HjUAAAAi/penguin-pengu.gif">
 </p>
 
 </div>
