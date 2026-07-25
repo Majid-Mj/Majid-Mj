@@ -104,19 +104,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majid-Mj&theme=gotham"
-    width="48%"
-    alt="GitHub Profile Details"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majid-Mj&theme=gotham"
-    width="48%"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
   <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats-eight-topaz.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true"
@@ -132,7 +119,6 @@
 </p>
 
 
-
   <!-- LeetCode Stats -->
   <img
     src="https://leetcard.jacoblin.cool/majid_mj?theme=dark&font=ABeeZee"
@@ -141,14 +127,6 @@
   />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Majid-Mj&theme=gotham&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
-  />
-</p>
 
 ---
 
