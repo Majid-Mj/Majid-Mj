@@ -1,3 +1,56 @@
+<div align="center">
+
+  <!-- Animated Background Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=55&descAlign=50" alt="Abdul Majid Animated Header" />
+
+  <!-- Animated Typing Text -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E36209&center=true&vCenter=true&width=500&lines=IT+%26+Networking+Enthusiast;Passionate+about+Tech+%26+Aesthetics;Constantly+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+
+</div>
+
+---
+
+### 💫 About Me
+
+* 🔭 I’m currently focusing on advancing my skills and certifications in **IT Networking**.
+* 🌱 I’m always exploring new technologies and paths for professional growth.
+* 🎞️ When I'm not studying or coding, I have a strong appreciation for visual curation, especially vintage, 90s-cinematic, and bright aesthetic photography.
+* 📫 How to reach me: **[Insert Email or LinkedIn Here]**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <!-- Replace these links with the actual technologies you use -->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Hi 👋, I'm Abdul Majid 
