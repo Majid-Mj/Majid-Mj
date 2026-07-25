@@ -92,36 +92,6 @@
   </tbody>
 </table>
 
-
-## 🚀 Featured Projects
-
-### 🛒 EBoost — E-Commerce Platform for Premium Gaming Gadgets
-
-> A production-grade, full-stack e-commerce platform built with **ASP.NET Core** + **React**
-
-<table>
-  <tr>
-    <td><b>What it does</b></td>
-    <td>Supports products, cart management, orders, wishlists, and admin dashboards</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>ASP.NET Core · JWT Auth · Role-based Authorization · SQL Server · EF Core · Swagger</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React · Redux Toolkit · Tailwind CSS · Responsive Design</td>
-  </tr>
-  <tr>
-    <td><b>Admin</b></td>
-    <td>User, product, category, order & inventory management modules</td>
-  </tr>
-  <tr>
-    <td><b>Architecture</b></td>
-    <td>Clean Architecture · SOLID Principles · EF Core schema optimization</td>
-  </tr>
-</table>
-
 ---
 
 ## 🎓 Education
