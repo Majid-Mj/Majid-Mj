@@ -116,6 +116,15 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true&cache_seconds=86400"
+    width="48%"
+    alt="GitHub Stats"
+  />
+</p>
+
+
 
   <!-- LeetCode Stats -->
   <img
