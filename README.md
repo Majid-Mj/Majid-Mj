@@ -46,7 +46,6 @@
     
   </tr>
 </table>
----
 
 ### Frontend
 
@@ -143,19 +142,19 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>SmartJobPortal</b></td>
-      <td>AI-powered job platform with resume parsing & skill gap analysis</td>
-      <td>C#, ASP.NET Core, SQL Server, Dapper</td>
+      <td align="center"><b>VeloSync – Multi-Warehouse Inventory Optimization Platform</b></td>
+      <td>AI-powered inventory management system featuring demand forecasting, warehouse operations, stock optimization, and real-time inventory insights.  </td>
+      <td>.NET 8, ASP.NET Core, C#, SQL Server, EF Core, Dapper, Redis, ML.NET</td>
+    </tr>
+        <tr>
+      <td align="center"><b>CodeClash</b></td>
+      <td>Competitive programming platform with AI-powered coding assistance & contests</td>
+      <td>C#, ASP.NET Core, React, SQL Server</td>
     </tr>
     <tr>
-      <td align="center"><b>Shoex Ecommerce</b></td>
-      <td>Full-stack ecommerce platform with clean architecture</td>
-      <td>C#, ASP.NET Core, Angular, SQL Server</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Underwater Trash Detection</b></td>
-      <td>Deep learning model for detecting underwater debris</td>
-      <td>Python, Deep Learning, Computer Vision</td>
+      <td align="center"><b>EBoost E-Commerce Platform</b></td>
+      <td>Clean Architecture ecommerce backend with JWT auth, orders, cart & wishlist</td>
+      <td>C#, ASP.NET Core, React, SQL Server</td>
     </tr>
     <tr>
       <td align="center"><b>LeetCode Solutions</b></td>
@@ -165,7 +164,7 @@
   </tbody>
 </table>
 
-
+---
 
 ## 🌐 Let's Connect
 
