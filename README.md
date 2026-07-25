@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- Animated Background Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=55&descAlign=50" alt="Abdul Majid Animated Header" />
-
-  <!-- Animated Typing Text -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E36209&center=true&vCenter=true&width=500&lines=IT+%26+Networking+Enthusiast;Passionate+about+Tech+%26+Aesthetics;Constantly+Learning+%26+Building" alt="Typing SVG" />
-  </a>
+  <!-- Animated Dark Professional Background Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=55&descAlign=50&descColor=8b949e" alt="Abdul Majid Animated Header" />
 
 </div>
 
@@ -36,10 +31,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </div>
-
-
 
 
 
