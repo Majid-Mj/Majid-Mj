@@ -131,101 +131,38 @@
 
 ---
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
-<table align="center" width="100%">
-  <!-- ==================== PROJECT 1 ==================== -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🛍️ NextGen E-Commerce Platform</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,redux,postgres" alt="Tech Stack" />
-      </p>
-      <p>
-        A full-stack, enterprise-grade e-commerce web application with secure payments, cart management, JWT authentication, and role-based admin controls.
-      </p>
-      <ul>
-        <li><b>Backend:</b> ASP.NET Core Web API, EF Core, SQL Server</li>
-        <li><b>Frontend:</b> React, Redux Toolkit, Tailwind CSS</li>
-        <li><b>Features:</b> 20–30% optimized query performance, RBAC, Redis Caching</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Majid-Mj" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Code" />
-        </a>
-        <a href="https://majid-portfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">⚡ Smart Job & Talent API</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,cs,postman,docker" alt="Tech Stack" />
-      </p>
-      <p>
-        High-concurrency RESTful Web API built following Clean Architecture & CQRS principles for candidate evaluation and automated skill gap analysis.
-      </p>
-      <ul>
-        <li><b>Architecture:</b> Clean Architecture, CQRS, MediatR</li>
-        <li><b>Database:</b> SQL Server, Dapper, EF Core</li>
-        <li><b>Features:</b> 30+ endpoints, JWT Auth, Swagger documentation</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Majid-Mj" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Code" />
-        </a>
-        <a href="https://majid-portfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ==================== PROJECT 3 ==================== -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🌐 Modern Developer Portfolio</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" alt="Tech Stack" />
-      </p>
-      <p>
-        A high-performance personal portfolio built with Next.js 14 App Router, custom hardware-accelerated Canvas WebGL silk shader animations, and smooth scrolling.
-      </p>
-      <ul>
-        <li><b>Framework:</b> Next.js 14 (App Router), TypeScript</li>
-        <li><b>Animations:</b> GSAP 3, Framer Motion, Lenis Smooth Scroll</li>
-        <li><b>Features:</b> 3D interactive tilt cards, EmailJS contact integration</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Majid-Mj/Majid-Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Code" />
-        </a>
-        <a href="https://majid-portfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🔐 Auth & RBAC Microservice</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,cs,redis,postman" alt="Tech Stack" />
-      </p>
-      <p>
-        A decoupled, standalone authentication and authorization service with refresh token rotation, password hashing, and role permission enforcement.
-      </p>
-      <ul>
-        <li><b>Security:</b> JWT Bearer Token, BCrypt, Claims-based Auth</li>
-        <li><b>Tech:</b> ASP.NET Core 8, Redis Token Blacklisting</li>
-        <li><b>Features:</b> Scalable session management, Rate Limiting</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Majid-Mj" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+      <th align="center">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>SmartJobPortal</b></td>
+      <td>AI-powered job platform with resume parsing & skill gap analysis</td>
+      <td>C#, ASP.NET Core, SQL Server, Dapper</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Shoex Ecommerce</b></td>
+      <td>Full-stack ecommerce platform with clean architecture</td>
+      <td>C#, ASP.NET Core, Angular, SQL Server</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Underwater Trash Detection</b></td>
+      <td>Deep learning model for detecting underwater debris</td>
+      <td>Python, Deep Learning, Computer Vision</td>
+    </tr>
+    <tr>
+      <td align="center"><b>LeetCode Solutions</b></td>
+      <td>Curated problem-solving practice</td>
+      <td>JavaScript, Algorithms</td>
+    </tr>
+  </tbody>
 </table>
 
 
