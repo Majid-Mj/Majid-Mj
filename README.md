@@ -104,22 +104,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats-eight-topaz.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majid-Mj&theme=gotham"
+    width="48%"
+    alt="GitHub Profile Details"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majid-Mj&theme=gotham"
     width="48%"
     alt="GitHub Stats"
-  /> 
-  <!-- GitHub Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Majid-Mj&theme=gotham&hide_border=true"
-    width="48%"
-    alt="GitHub Streak"
   />
 </p>
 
 
-  <!-- LeetCode Stats -->
+  <p align="center"><!-- LeetCode Stats -->
   <img
     src="https://leetcard.jacoblin.cool/majid_mj?theme=dark&font=ABeeZee"
     width="48%"
