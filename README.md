@@ -3,16 +3,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-
-
-
-# Hi 👋, I'm Abdul Majid 
-
-
 <p align="center">
   <td align="center" width="300"></td>
 </p>
@@ -20,6 +10,25 @@
 </div>
 
 ### Full-Stack Developer — .NET Core & React
+
+
+### 👨‍💻 About Me
+
+- 🚀 **Full Stack Software Engineer** with **1+ years of experience** building high-performance, scalable web applications using **ASP.NET Core** & **React / Next.js**
+- 🏛️ Strong advocate for **Clean Architecture**, **CQRS**, **SOLID Principles**, and maintainable design patterns
+- ⚡ **Performance & Optimization:** Engineered **30+ production Web API endpoints** and optimized SQL queries delivering a **20–30% boost in database performance**
+- 🔐 **Security & Access Control:** Experienced in building secure RESTful APIs with **JWT Authentication**, OAuth2, and fine-grained Role-Based Access Control (RBAC)
+- 📦 **Enterprise Delivery:** Built production-grade platforms leveraging **Redux Toolkit**, **EF Core**, **Dapper**, and **SQL Server**
+- 🎓 **Bachelor of Computer Applications (BCA)** — University of Calicut (2022–2025)
+- 📍 **Location:** Kerala, India | 💼 Open to Global Remote & On-Site Opportunities
+
+---
+
+#### 📬 Connect With Me:
+📧 **Email:** [majidvp501@gmail.com](mailto:majidvp501@gmail.com)  
+📱 **Phone:** +91 7510851668  
+💬 *Fun Fact: I write clean code by day and optimize queries by night! 🌙*
+
 
 - 🚀 Full Stack Developer specializing in **ASP.NET Core** backends and **React** frontends
 - 🏢 Currently **Full Stack Developer Intern** at **Bridgeon Solutions LLP**, Calicut
