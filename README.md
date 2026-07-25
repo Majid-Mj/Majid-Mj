@@ -11,35 +11,13 @@
 
 ### Full-Stack Developer — .NET Core & React
 
-
-### 👨‍💻 About Me
-
-- 🚀 **Full Stack Software Engineer** with **1+ years of experience** building high-performance, scalable web applications using **ASP.NET Core** & **React / Next.js**
-- 🏛️ Strong advocate for **Clean Architecture**, **CQRS**, **SOLID Principles**, and maintainable design patterns
-- ⚡ **Performance & Optimization:** Engineered **30+ production Web API endpoints** and optimized SQL queries delivering a **20–30% boost in database performance**
-- 🔐 **Security & Access Control:** Experienced in building secure RESTful APIs with **JWT Authentication**, OAuth2, and fine-grained Role-Based Access Control (RBAC)
-- 📦 **Enterprise Delivery:** Built production-grade platforms leveraging **Redux Toolkit**, **EF Core**, **Dapper**, and **SQL Server**
-- 🎓 **Bachelor of Computer Applications (BCA)** — University of Calicut (2022–2025)
-- 📍 **Location:** Kerala, India | 💼 Open to Global Remote & On-Site Opportunities
-
----
-
-#### 📬 Connect With Me:
-📧 **Email:** [majidvp501@gmail.com](mailto:majidvp501@gmail.com)  
-📱 **Phone:** +91 7510851668  
-💬 *Fun Fact: I write clean code by day and optimize queries by night! 🌙*
-
-
-- 🚀 Full Stack Developer specializing in **ASP.NET Core** backends and **React** frontends
-- 🏢 Currently **Full Stack Developer Intern** at **Bridgeon Solutions LLP**, Calicut
-- 🧱 Strong advocate of **Clean Architecture**, **SOLID principles**, and maintainable code
-- ⚡ Engineered **30+ Web API endpoints** and improved DB performance by **20–30%**
-- 🔐 Experienced with **JWT authentication**, role-based authorization, and secure API design
-- 📦 Built production-grade e-commerce platforms with **Redux Toolkit**, **EF Core**, and **SQL Server**
+- 🚀 Passionate **Full Stack Software Engineer** with **1+ years of experience** building high-performance web applications
+- 💻 Specialized in crafting robust **ASP.NET Core** REST APIs and dynamic **React / Next.js** frontends
+- 🏢 Currently **Software Engineer** at Bridgeon Solution, Kerala
+- ⚡ Engineered **50+ production-grade API endpoints** and optimized SQL queries delivering a **20–30% boost in DB performance**
+- 🤖 Built production-grade **Multi-Warehouse System** with **DotNet**, **EF Core**, **Angular** and **SQL Server**
 - 🎓 **Bachelor of Computer Science (BCA)** — University of Calicut (2022–2025)
 - 📫 Reach me at: **majidvp501@gmail.com** | 📱 **+91 7510851668**
-- 📍 Palakkad, Mannarkad, Kerala, India
-- 💬 Fun fact: I write clean code by day and optimize queries by night! 🌙
 
 ---
 
