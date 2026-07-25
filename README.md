@@ -3,31 +3,6 @@
 </div>
 
 
-### 💫 About Me
-
-* 🔭 I’m currently focused on advancing my expertise in **Cloud & Network Security**.
-* 🌱 I have a passion for complex infrastructure and am actively pursuing advanced certifications.
-* 🎞️ Beyond the terminal, I appreciate visual curation, particularly **90s-cinematic and bright aesthetic photography**.
-* 📫 How to reach me: **[Insert Email or LinkedIn Here]**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <!-- Replace these badges with your actual technologies -->
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=shoppay&logoColor=cyan" alt="General Networking" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Wireshark-006EFF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</div>
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
