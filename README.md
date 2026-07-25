@@ -104,12 +104,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majid-Mj&theme=gotham"
+    width="48%"
+    alt="GitHub Profile Details"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majid-Mj&theme=gotham"
     width="48%"
     alt="GitHub Stats"
   />
+</p>
+
 
   <!-- LeetCode Stats -->
   <img
