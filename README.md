@@ -15,7 +15,7 @@
 - 💻 Specialized in crafting robust **ASP.NET Core** REST APIs and dynamic **React / Next.js** frontends
 - 🏢 Currently **Software Engineer** at Bridgeon Solution, Kerala
 - ⚡ Engineered **50+ production-grade API endpoints** and optimized SQL queries delivering a **20–30% boost in DB performance**
-- 🤖 Built production-grade **Multi-Warehouse System** with **DotNet**, **EF Core**, **Angular** and **SQL Server**
+- 🤖 Built production-grade **Multi-Warehouse Optimazed System** with **DotNet**, **EF Core**, **Angular** ,**ML.NET** and **SQL Server**
 - 🎓 **Bachelor of Computer Science (BCA)** — University of Calicut (2022–2025)
 - 📫 Reach me at: **majidvp501@gmail.com** | 📱 **+91 7510851668**
 
