@@ -117,10 +117,17 @@
 </p>
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats-eight-topaz.vercel.app/api?username=Majid-Mj&show_icons=true&theme=gotham&hide_border=true"
     width="48%"
     alt="GitHub Stats"
+  /> 
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Majid-Mj&theme=gotham&hide_border=true"
+    width="48%"
+    alt="GitHub Streak"
   />
 </p>
 
