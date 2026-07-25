@@ -92,16 +92,6 @@
   </tbody>
 </table>
 
-### What I do at Bridgeon Solutions:
-
-- 🔧 Engineered **30+ Web API endpoints** using **ASP.NET Core** and **C#**
-- ⚡ Improved database performance by **20–30%** through optimized SQL queries
-- 🗄️ Designed and managed **SQL Server** schemas to support complex application features
-- 🔗 Integrated backend APIs with **Angular** and **React** components for reliable data flow
-- 🎨 Built reusable, responsive UI components using **Angular** and **Tailwind CSS**
-- 🔐 Implemented **JWT authentication** to secure backend services and protect API routes
-
----
 
 ## 🚀 Featured Projects
 
