@@ -1,11 +1,7 @@
 <div align="center">
-
-  <!-- Custom Dark Blue & Glowing Cyan Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1c,111827,0a0f1c&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Network%20Engineer&descAlignY=55&descAlign=50&descColor=a3b8cc" alt="Abdul Majid Animated Header" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=Ajnas%20Thayyil&fontSize=48&fontAlignY=38&color=0:0b0f1a,50:121a2b,100:1b2438&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1.2&animation=fadeIn&desc=Full%20Stack%20.NET%20Developer%20%E2%80%A2%20Angular%20Developer&descSize=16&descAlignY=68&descFontColor=FFFFFF" />
 </div>
 
----
 
 ### 💫 About Me
 
