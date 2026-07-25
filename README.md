@@ -158,8 +158,6 @@
         </a>
       </p>
     </td>
-
-    <!-- ==================== PROJECT 2 ==================== -->
     <td width="50%" valign="top">
       <h4 align="center">⚡ Smart Job & Talent API</h4>
       <p align="center">
@@ -208,8 +206,6 @@
         </a>
       </p>
     </td>
-
-    <!-- ==================== PROJECT 4 ==================== -->
     <td width="50%" valign="top">
       <h4 align="center">🔐 Auth & RBAC Microservice</h4>
       <p align="center">
@@ -231,6 +227,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 🌐 Let's Connect
