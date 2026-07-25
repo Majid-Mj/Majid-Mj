@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Custom Dark Blue & Glowing Cyan Header -->
-  <img src="https://example.com/abdul_majid_header.png" alt="Abdul Majid Professional Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1c,111827,0a0f1c&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Network%20Engineer&descAlignY=55&descAlign=50&descColor=a3b8cc" alt="Abdul Majid Animated Header" />
 
 </div>
 
