@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Dark Professional Background Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001529,002140,003366&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=55&descAlign=50&descColor=a3b8cc" alt="Abdul Majid Animated Header" />
+  <!-- Custom Dark Blue & Glowing Cyan Header -->
+  <img src="https://example.com/abdul_majid_header.png" alt="Abdul Majid Professional Header" />
 
 </div>
 
@@ -9,9 +9,9 @@
 
 ### 💫 About Me
 
-* 🔭 I’m currently focusing on advancing my skills and certifications in **IT Networking**.
-* 🌱 I’m always exploring new technologies and paths for professional growth.
-* 🎞️ When I'm not studying or coding, I have a strong appreciation for visual curation, especially vintage, 90s-cinematic, and bright aesthetic photography.
+* 🔭 I’m currently focused on advancing my expertise in **Cloud & Network Security**.
+* 🌱 I have a passion for complex infrastructure and am actively pursuing advanced certifications.
+* 🎞️ Beyond the terminal, I appreciate visual curation, particularly **90s-cinematic and bright aesthetic photography**.
 * 📫 How to reach me: **[Insert Email or LinkedIn Here]**
 
 ---
@@ -19,11 +19,13 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Replace these links with the actual technologies you use -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <!-- Replace these badges with your actual technologies -->
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=shoppay&logoColor=cyan" alt="General Networking" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Wireshark-006EFF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </div>
 
 ---
@@ -31,17 +33,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
