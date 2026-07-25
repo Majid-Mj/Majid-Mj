@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Dark Professional Background Header -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e1e1e,2d2d2d,3d3d3d&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=55&descAlign=50&descColor=a1a1aa" alt="Abdul Majid Animated Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001529,002140,003366&height=280&section=header&text=ABDUL%20MAJID&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=55&descAlign=50&descColor=a3b8cc" alt="Abdul Majid Animated Header" />
 
 </div>
 
