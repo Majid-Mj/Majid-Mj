@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <td align="center" width="300"><img src="https://github.com/Majid-Mj/Majid-Mj/blob/main/penguin-pengu.gif?raw=true" width="300" alt="Entity Framework"/></td>
+  <td align="center" width="300"></td>
 </p>
 
 </div>
