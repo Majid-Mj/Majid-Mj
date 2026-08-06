@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Full Stack Developer Intern</b></td>
+      <td><b>Full Stack Developer</b></td>
       <td>Bridgeon Solutions LLP</td>
       <td>Aug 2025 – Present</td>
       <td>Calicut, Kerala</td>
