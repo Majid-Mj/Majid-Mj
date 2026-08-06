@@ -105,18 +105,18 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majid-Mj&theme=gotham"
-    width="48%"
-    alt="GitHub Profile Details"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majid-Mj&theme=gotham"
+    src="https://github-readme-stats.vercel.app/api?username=Majid-Mj&show_icons=true&theme=dark"
     width="48%"
     alt="GitHub Stats"
   />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majid-Mj&layout=compact&theme=dark"
+    width="48%"
+    alt="Top Languages"
+  />
+
+  
 </p>
-
-
   <p align="center"><!-- LeetCode Stats -->
   <img
     src="https://leetcard.jacoblin.cool/majid_mj?theme=dark&font=ABeeZee"
