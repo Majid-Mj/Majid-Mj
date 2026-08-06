@@ -13,7 +13,7 @@
 
 - 🚀 Passionate **Full Stack Software Engineer** with **1+ years of experience** building high-performance web applications
 - 💻 Specialized in crafting robust **ASP.NET Core** REST APIs and dynamic **React / Next.js** frontends
-- 🏢 Currently **Software Engineer** at Bridgeon Solution, Kerala
+- 🏢 Currently **Software Engineer** at Bridgeon Solutions, Kerala
 - ⚡ Engineered **50+ production-grade API endpoints** and optimized SQL queries delivering a **20–30% boost in DB performance**
 - 🤖 Built production-grade **Multi-Warehouse Optimazed System** with **DotNet**, **EF Core**, **Angular**, **Reeact** ,**ML.NET** and **SQL Server**
 - 🎓 **Bachelor of Computer Science (BCA)** — University of Calicut (2022–2025)
